@@ -1,0 +1,10 @@
+@startuml
+
+interface EmployeeInfo
+'abstract class Employee
+'class Staff
+'class PartTime
+'EmployeeInfo <|-- Employee
+'Staff <|-- PartTime
+
+@enduml
